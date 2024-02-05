@@ -9,6 +9,7 @@ const app = express();
 
 //static.exaple will be a folder
 // app.use("/example", express.static("example"));
+// when hosting, use the first <app.use("here")>, after 5001/"<inserthere"
 app.use("/anything", express.static("dbz"));
 
 app.listen(5001, () => {
