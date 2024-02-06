@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-image: url("https://media1.tenor.com/m/55XyDb06HO8AAAAC/ultra-instinct-ultra-instinct-goku.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+}
